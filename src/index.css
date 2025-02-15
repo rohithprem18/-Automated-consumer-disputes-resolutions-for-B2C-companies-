@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.netflix-intro {
+  position: relative;
+  transform-origin: center;
+  animation: scale 4s ease-in-out forwards;
+}
+
+.netflix-n {
+  position: relative;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15rem;
+  font-weight: bold;
+  color: #E50914;
+  text-shadow: 0 0 20px rgba(229, 9, 20, 0.5);
+  transform-origin: center;
+  animation: netflix-n 4s ease-in-out forwards;
+  opacity: 0;
+}
+
+@keyframes netflix-n {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) rotateX(-90deg);
+  }
+  20% {
+    opacity: 1;
+    transform: scale(1.2) rotateX(0deg);
+  }
+  25% {
+    transform: scale(1) rotateX(0deg);
+  }
+  80% {
+    opacity: 1;
+    transform: scale(1) rotateX(0deg);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(2) rotateX(90deg);
+  }
+}
+
+@keyframes scale {
+  0% {
+    transform: perspective(500px) rotateY(-30deg);
+  }
+  20% {
+    transform: perspective(500px) rotateY(0deg);
+  }
+  80% {
+    transform: perspective(500px) rotateY(0deg);
+  }
+  100% {
+    transform: perspective(500px) rotateY(30deg);
+  }
+}
