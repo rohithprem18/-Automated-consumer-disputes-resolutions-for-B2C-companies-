@@ -1,0 +1,92 @@
+PROJECT ROLES AND RESPONSIBILITIES
+================================
+
+1. Frontend Developer (UI/UX Specialist)
+--------------------------------------
+Primary Responsibilities:
+- Implement React components and TypeScript interfaces
+- Create Netflix-style animations and transitions
+- Build responsive chat interface
+- Develop real-time analytics dashboard
+- Implement user authentication flows
+
+Technical Requirements:
+- Expert in React 18, TypeScript, and Tailwind CSS
+- Experience with Recharts for analytics visualization
+- Knowledge of Firebase Authentication
+- Proficiency in animation and UI state management
+
+2. Backend Developer (Firebase Specialist)
+----------------------------------------
+Primary Responsibilities:
+- Set up Firebase configuration and security rules
+- Implement real-time data synchronization
+- Manage authentication and user sessions
+- Handle data storage and retrieval
+- Configure hosting and deployment
+
+Technical Requirements:
+- Expert in Firebase services and security
+- Experience with Cloud Functions
+- Knowledge of NoSQL database design
+- Understanding of security best practices
+
+3. AI/ML Engineer (Sentiment Analysis Specialist)
+----------------------------------------------
+Primary Responsibilities:
+- Develop tone analysis algorithms
+- Implement frustration detection system
+- Create priority scoring mechanism
+- Fine-tune response generation
+- Optimize performance metrics
+
+Technical Requirements:
+- Strong background in NLP and sentiment analysis
+- Experience with ML model deployment
+- Knowledge of real-time processing
+- Proficiency in algorithm optimization
+
+4. Project Manager (Integration Specialist)
+----------------------------------------
+Primary Responsibilities:
+- Coordinate between team members
+- Manage project timeline and deliverables
+- Handle documentation and research integration
+- Ensure feature completeness
+- Oversee testing and quality assurance
+
+Technical Requirements:
+- Experience with Agile methodologies
+- Understanding of customer service systems
+- Knowledge of AI/ML project lifecycle
+- Strong communication and documentation skills
+
+Collaboration Points:
+-------------------
+1. Frontend + AI Engineer:
+   - Real-time analytics integration
+   - Chat interface optimization
+   - Performance monitoring
+
+2. Backend + Frontend:
+   - Data flow implementation
+   - Authentication integration
+   - Real-time updates
+
+3. AI Engineer + Backend:
+   - Model deployment
+   - Data processing pipeline
+   - Response optimization
+
+4. Project Manager + All:
+   - Sprint planning
+   - Feature prioritization
+   - Documentation maintenance
+
+Timeline Expectations:
+--------------------
+- Initial Setup: 2 weeks
+- Core Features: 6 weeks
+- AI Integration: 4 weeks
+- Testing & Optimization: 4 weeks
+Total: 16 weeks 
